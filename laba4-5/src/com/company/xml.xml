@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <person>
+        <id>18080</id>
+        <name>Ivan</name>
+        <surname>Ivanov</surname>
+        <height>180</height>
+        <weight>80</weight>
+    </person>
+    <person>
+        <id>19090</id>
+        <name>Vladimir</name>
+        <surname>Vladimirov</surname>
+        <height>190</height>
+        <weight>90</weight>
+    </person>
+    <person>
+        <id>200100</id>
+        <name>Sergey</name>
+        <surname>Sergeyev</surname>
+        <height>200</height>
+        <weight>100</weight>
+    </person>
+    <person>
+        <id>210110</id>
+        <name>Nikolay</name>
+        <surname>Nikolayev</surname>
+        <height>210</height>
+        <weight>110</weight>
+    </person>
+</list>
